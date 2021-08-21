@@ -29,8 +29,8 @@ html{
     display: inline-block;
     line-height: 1.5;
     border: none;
-    -webkit-appearance: none;
     cursor: pointer;
+    -webkit-appearance: none;
 }
 
 .btn:hover{
