@@ -55,6 +55,10 @@
     .contact-form{
         margin-top: 32px;
     }
+
+    .contact-submit-btn{
+        font-size: 18px;
+    }
 }
 
 /* Tablet and Mobile */
