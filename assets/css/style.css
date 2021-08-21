@@ -30,7 +30,7 @@ html{
     line-height: 1.5;
     border: none;
     cursor: pointer;
-    -webkit-appearance: ;
+    -webkit-appearance: none;
 }
 
 .btn:hover{
